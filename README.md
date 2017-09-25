@@ -1,13 +1,13 @@
-# Classic_Arcade_Game
-===============================
+# Arcade-game-FEND
 
-HOW TO RUN THE GAME
--------------------
-unzip the folder and double click on 'index.html' to play the game
+## How to play?
+* Open index.html in web browser.
+* use move up,down,left right keys to move.
 
-HOW TO PLAY THE GAME
---------------------
-move up,down,left right
-avoid the bugs
-eat 'keys' to increment the points
-100 points leads to winning the game
+## Game rules:
+* Player can move up,down,left right.
+* Colliding with bugs kills player.
+* moving out of board kills player.
+* eat 'keys' to increment the points by five.
+* Earn 75 points to win the game.
+
