@@ -1,0 +1,22 @@
+body {
+	background-color:#c9ffad;
+	text-align:center;
+}
+
+.header{
+	background-color:yellow;
+	margin: auto;
+	width: 60%;
+
+}
+
+.main{
+	margin: auto;
+	background-color: #07ef00;
+	box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    border:outset 2px black;
+    border-radius:4px;
+    padding:5px 5px 5px 5px;
+    width:400px;
+}
+	
