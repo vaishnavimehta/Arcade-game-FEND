@@ -48,14 +48,14 @@ Player.prototype.handleInput=function(key)
 	}
 	else if(key=='left')
 	{
-			if(this.playerX<=-1)
+			if(this.playerX<=15)
 			{this.resetPosition();}
 			else
 			{this.playerX-=75;}
 	}
 	else if(key=='right')
 	{
-			if(this.playerX>405)
+			if(this.playerX>350)
 			{this.resetPosition();}
 			else
 			{this.playerX+=75;}
