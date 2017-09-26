@@ -34,7 +34,7 @@ Player.prototype.handleInput=function(key)
 {
 	if(key==='up')
 	{
-			if(this.playerY<90)
+			if(this.playerY<0)
  			{this.resetPosition();}
 			else
 			{this.playerY-=75;}
